@@ -117,22 +117,12 @@ function Login() {
           <div className="padd-text fadeInLeft">
             <small className="small-text">About</small>
             <h2 className="title-h2">Evangadi Networks Q&A</h2>
-            <p className="font-p mg-bt-10">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-              condimentum mauris at libero lobortis, sed placerat magna
-              vulputate.
+              <p className="font-p mg-bt-30">
+              Evangadi Networks Q&A is a platform where users can ask and answer questions, share knowledge, and engage in discussions on various topics.
             </p>
 
-            <p className="font-p mg-bt-10">
-              Phasellus nec risus at ligula volutpat eleifend. Donec in ligula
-              nulla. Nullam sit amet turpis nec ante congue rhoncus non vitae
-              ex. Aenean at arcu dapibus, gravida tortor id,
-            </p>
-
-            <p className="font-p mg-bt-10">
-              Maecenas tristique eleifend efficitur. Quisque egestas turpis non
-              purus gravida, id euismod odio efficitur. Fusce non velit non
-              nulla dictum tincidunt.
+            <p className="font-p mg-bt-30">
+            It provides a space for users to connect, collaborate, and learn from each other, fostering a community of learners and experts alike.
             </p>
             <a href="/explained/" className="btn btn-blue">
               How it works
