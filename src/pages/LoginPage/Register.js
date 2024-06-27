@@ -331,28 +331,11 @@ function Register() {
             <h2 className="title-h2 text-gradient">Evangadi Networks Q&A</h2>
 
             <p className="font-p mg-bt-30">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-              condimentum mauris at libero lobortis, sed placerat magna
-              vulputate. Nunc pulvinar ligula eget justo volutpat, eget feugiat
-              sem pharetra. Proin id felis et nisl convallis sollicitudin. Nulla
-              facilisi. Nam vestibulum turpis eget eros egestas, sed hendrerit
-              dolor convallis. Quisque vel felis purus.
+              Evangadi Networks Q&A is a platform where users can ask and answer questions, share knowledge, and engage in discussions on various topics.
             </p>
 
             <p className="font-p mg-bt-30">
-              Phasellus nec risus at ligula volutpat eleifend. Donec in ligula
-              nulla. Nullam sit amet turpis nec ante congue rhoncus non vitae
-              ex. Aenean at arcu dapibus, gravida tortor id, tincidunt quam.
-              Proin at tortor et sapien consequat mattis id a quam. Vivamus a
-              neque sit amet ligula fermentum lobortis. Aenean ultricies libero
-              ut ex hendrerit, a mattis sem bibendum.
-            </p>
-
-            <p className="font-p mg-bt-30">
-              Maecenas tristique eleifend efficitur. Quisque egestas turpis non
-              purus gravida, id euismod odio efficitur. Fusce non velit non
-              nulla dictum tincidunt. Nunc eu ligula sed arcu vehicula rutrum.
-              Pellentesque at justo ac purus feugiat dictum.
+            It provides a space for users to connect, collaborate, and learn from each other, fostering a community of learners and experts alike.
             </p>
 
             <a
